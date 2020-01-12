@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "updateGroups":true,
+            "groups":[3,1,2],
+            "user":{
+                "name":"pmateos7",
+               "displayName":"Paul Mateos",
+               "email":"test@test.com",
+               "accountRoleIds":[14,15],
+               "password":"password"
+            }
+        },
+        {
+            "updateGroups":true,
+            "groups":[3,1,2],
+            "user":{
+                "name":"pmateos8",
+               "displayName":"Paul Mateos",
+               "email":"test@test.com",
+               "accountRoleIds":[14,15],
+               "password":"password"
+            }
+        }
+    ]
+}
