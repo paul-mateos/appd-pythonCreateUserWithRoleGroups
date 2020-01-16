@@ -1,11 +1,11 @@
 {
     "users": [
         {
-            "name":"pmateos7",
+            "name":"pmateos15",
             "displayName":"Paul Mateos",
             "security_provider_type":"INTERNAL",
             "password":"password",
-            "groups":["test group3","testgroup"],
+            "groups":[],
             "accountRoles":["APPD-Read-only","Administrator"]
         },
         {
@@ -13,7 +13,7 @@
             "displayName":"Paul Mateos",
             "security_provider_type":"INTERNAL",
             "password":"password",
-            "groups":["test group3","testgroup"],
+            "groups":[],
             "accountRoles":["APPD-Read-only","Administrator"]
         }
     ]
